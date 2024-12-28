@@ -13,6 +13,7 @@ This project implements a deep learning-based facial emotion recognition system.
 - [Project Structure](#project-structure)
 - [Dataset](#dataset)
 - [Model](#model)
+- [Output]
 ---
 
 ## Features
@@ -122,6 +123,11 @@ You can replace the dataset under `data/train/` and `data/test/` to retrain the 
 - Loss Function: Categorical Crossentropy
 ---
 ```
+## Output Example
+Below is a screenshot of the facial emotion recognition system in action. The system detects the emotion displayed by the person in front of the webcam and classifies it with a corresponding emotion label:
+
+![Emotion Recognition Output]((https://github.com/datamagic2020/Emotion_detection_with_CNN/blob/main/emoition_detection.png)
+
 
 
 This updated version includes the `Facial Emotion Recognition Using Deep Learning.ipynb` file and instructions for using it with Jupyter Notebook.
