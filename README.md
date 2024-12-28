@@ -10,7 +10,7 @@ This project implements a deep learning-based facial emotion recognition system.
 - [Project Structure](#project-structure)
 - [Dataset](#dataset)
 - [Model](#model)
-- [Output]
+- [Output](#ouput)
 ---
 
 ## Features
@@ -123,7 +123,7 @@ You can replace the dataset under `data/train/` and `data/test/` to retrain the 
 - Optimizer: Adam
 - Loss Function: Categorical Crossentropy
 ---
-## Output Example
+## Output 
 Below is a screenshot of the facial emotion recognition system in action. The system detects the emotion displayed by the person in front of the webcam and classifies it with a corresponding emotion label:
 
 ![Emotion Recognition Output](https://github.com/bhargav0905/StreeRakshak/blob/f77184c1a068de9ed945000a0bb706831721d390/Screenshot%202024-12-28%20180605.png)
