@@ -1,8 +1,5 @@
 # Facial Emotion Recognition Using Deep Learning
 
-```markdown
-# Facial Emotion Recognition Using Deep Learning
-
 This project implements a deep learning-based facial emotion recognition system. Using a trained Convolutional Neural Network (CNN), it classifies emotions from grayscale images of human faces into one of seven categories: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.
 
 ## Table of Contents
@@ -35,7 +32,7 @@ Ensure you have the following installed on your system:
 
 Install the required dependencies using:
 ```bash
-pip install -r requirements.txt
+pip install 
 ```
 
 ---
@@ -126,7 +123,6 @@ You can replace the dataset under `data/train/` and `data/test/` to retrain the 
 - Optimizer: Adam
 - Loss Function: Categorical Crossentropy
 ---
-```
 ## Output Example
 Below is a screenshot of the facial emotion recognition system in action. The system detects the emotion displayed by the person in front of the webcam and classifies it with a corresponding emotion label:
 
