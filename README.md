@@ -130,7 +130,8 @@ You can replace the dataset under `data/train/` and `data/test/` to retrain the 
 ## Output Example
 Below is a screenshot of the facial emotion recognition system in action. The system detects the emotion displayed by the person in front of the webcam and classifies it with a corresponding emotion label:
 
-![Emotion Recognition Output]([(https://github.com/datamagic2020/Emotion_detection_with_CNN/blob/main/emoition_detection.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-022-13558-9&psig=AOvVaw2hq8Q3jlkozyNRteN_YJK_&ust=1735473922713000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjKlKe2yooDFQAAAAAdAAAAABAE))
+![Emotion Recognition Output](https://example.com/path/to/your-image.png)
+
 
 
 
