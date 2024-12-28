@@ -1,4 +1,4 @@
-**##Facial Emotion Recognition Using Deep Learning**
+# Facial Emotion Recognition Using Deep Learning
 
 ```markdown
 # Facial Emotion Recognition Using Deep Learning
@@ -100,9 +100,7 @@ emotion-recognition/
 ```
 
 ---
-### download FER2013 dataset
-- from below link and put in data folder under your project directory
-- https://www.kaggle.com/msambare/fer2013
+
 
 ## Dataset
 This project uses a dataset of grayscale images of faces, categorized into seven emotion classes:
@@ -116,6 +114,9 @@ This project uses a dataset of grayscale images of faces, categorized into seven
 
 You can replace the dataset under `data/train/` and `data/test/` to retrain the model with custom data.
 
+### download FER2013 dataset
+- from below link and put in data folder under your project directory
+- https://www.kaggle.com/msambare/fer2013
 ---
 
 ## Model
