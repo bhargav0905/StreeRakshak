@@ -32,7 +32,7 @@ Ensure you have the following installed on your system:
 
 Install the required dependencies using:
 ```bash
-pip install 
+pip install opencv-python numpy keras tensorflow
 ```
 
 ---
